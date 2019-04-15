@@ -14,18 +14,18 @@ Usage:\
 ft_ssl command [command opts] [command args]
 
 commands\
-  md5\
-  sha256
+  &nbsp;&nbsp;md5\
+  &nbsp;&nbsp;sha256
 
 command opts\
-  -s      &nbsp;&nbsp;&nbsp;&nbsp;Print a checksum of the given string.\
-  -p      &nbsp;&nbsp;&nbsp;&nbsp;Echo stdin to stdout and append the checksum to stdout.\
-  -q      &nbsp;&nbsp;&nbsp;&nbsp;Quiet mode - only the checksum is printed out.  Overrides the -r option.\
-  -r      &nbsp;&nbsp;&nbsp;&nbsp;Reverses the format of the output.  Does nothing when combined with the -p option.
+  &nbsp;&nbsp;-s      &nbsp;&nbsp;&nbsp;&nbsp;Print a checksum of the given string.\
+  &nbsp;&nbsp;-p      &nbsp;&nbsp;&nbsp;&nbsp;Echo stdin to stdout and append the checksum to stdout.\
+  &nbsp;&nbsp;-q      &nbsp;&nbsp;&nbsp;&nbsp;Quiet mode - only the checksum is printed out.  Overrides the -r option.\
+  &nbsp;&nbsp;-r      &nbsp;&nbsp;&nbsp;&nbsp;Reverses the format of the output.  Does nothing when combined with the -p option.
 
 command args\
-  string (with -s opt)\
-  filename
+  &nbsp;&nbsp;string (with -s opt)\
+  &nbsp;&nbsp;filename
 <br/>
 <br/>
 
