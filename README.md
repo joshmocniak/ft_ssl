@@ -18,10 +18,10 @@ commands\
   sha256
 
 command opts\
-  -s      Print a checksum of the given string.\
-  -p      Echo stdin to stdout and append the checksum to stdout.\
-  -q      Quiet mode - only the checksum is printed out.  Overrides the -r option.\
-  -r      Reverses the format of the output.  Does nothing when combined with the -p option.
+  -s      &nbsp;&nbsp;&nbsp;&nbsp;Print a checksum of the given string.\
+  -p      &nbsp;&nbsp;&nbsp;&nbsp;Echo stdin to stdout and append the checksum to stdout.\
+  -q      &nbsp;&nbsp;&nbsp;&nbsp;Quiet mode - only the checksum is printed out.  Overrides the -r option.\
+  -r      &nbsp;&nbsp;&nbsp;&nbsp;Reverses the format of the output.  Does nothing when combined with the -p option.
 
 command args\
   string (with -s opt)\
