@@ -22,7 +22,7 @@ ft_ssl command [command opts] [command args]
 
 | command args |
 | :- |
-| string (with -s opt) |
+| string *(with -s opt)* |
 | filename |
 
 Examples:
